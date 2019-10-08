@@ -6,8 +6,8 @@
     <session-factory name="sessionFactory">
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="hibernate.connection.password">tecguru$</property>
-        <property name="hibernate.connection.url">jdbc:mysql://tgconsulting.online:3306/examen4-1?serverTimezone=America/Mexico_City</property>
-        <property name="hibernate.connection.username">examen4-1</property>
+        <property name="hibernate.connection.url">jdbc:mysql://tgconsulting.online:3306/examenequipouno?serverTimezone=America/Mexico_City</property>
+        <property name="hibernate.connection.username">examenequipouno</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
     </session-factory>
 </hibernate-configuration>
